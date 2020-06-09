@@ -14,13 +14,13 @@
 	<object>
 		<name>lays</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>111</ymin>
-			<xmax>496</xmax>
-			<ymax>468</ymax>
+			<xmin>209</xmin>
+			<ymin>55</ymin>
+			<xmax>647</xmax>
+			<ymax>551</ymax>
 		</bndbox>
 	</object>
 </annotation>
