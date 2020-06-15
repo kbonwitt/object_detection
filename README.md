@@ -1,4 +1,4 @@
-# Object Detection Model based off of DLology Blog and TFLite
+# Object Detection Model (based off of DLology Blog and TFLite)
 
 
 
