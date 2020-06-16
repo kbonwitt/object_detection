@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>3 (4).jpeg</filename>
+	<path>C:\Users\kbonwitt\Desktop\object_detection\object_detection\data\images\train\3 (4).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m&amp;m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>163</ymin>
+			<xmax>515</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>
